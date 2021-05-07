@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="thumTintMoon">#FFFFFF</color>
+    <color name="angka">#FFFFFFFF</color>
+    <color name="merah">#B51B1B</color>
+    <color name="blackDoffColor">#22252d</color>
+    <color name="blackDoffColor2">#272b33</color>
+    <color name="greyColor">#2C313A</color>
+    <color name="biruTrack">#206B7E</color>
+
+</resources>
